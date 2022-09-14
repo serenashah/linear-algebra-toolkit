@@ -1,4 +1,4 @@
-# linear-algebra-toolkit
+# Linear Algebra Toolkit
 This object-oriented C++ project provides multiple linear algebra functionalities at large scale and high efficiency. 
 
 ## Linear System Solver
